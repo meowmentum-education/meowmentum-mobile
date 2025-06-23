@@ -1,9 +1,9 @@
-# 🐾 Meowmentum – Mobile App (React Native)
+# 🐾 Meowmentum – Mobile App
 
 The **Meowmentum Mobile App** is the cross-platform companion to our AI-driven English learning platform. Developed with **React Native** and **Expo**, this app delivers gamified, personalized, and adaptive learning experiences — anytime, anywhere.
 
 > 📱 Designed for learners on-the-go.  
-> 🔗 See the full platform: [Meowmentum Overview](https://github.com/vutranquangminh/meowmentum)
+> 🔗 See the full platform: [Meowmentum Overview](https://github.com/meowmentum-education)
 
 ---
 
